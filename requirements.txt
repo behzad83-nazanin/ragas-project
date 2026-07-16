@@ -1,0 +1,8 @@
+streamlit
+pandas
+langchain-openai
+langchain-groq
+ragas
+datasets
+sentence-transformers
+python-dotenv
